@@ -1,6 +1,6 @@
 # # Olá! Eu sou o Umberto Leonetti
 
-- Atualmente fazendobolsa de pesquisa na faculdade em programação para jogos;
+- Atualmente fazendo bolsa de pesquisa na faculdade em programação para jogos;
 - Estudando Bacharelado de Ciências da Computação;
 <div align="center">
   <a href="https://github.com/UmbertoLeonetti">
