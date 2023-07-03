@@ -43,6 +43,6 @@
 
 ###
 
-![snake gif](https://github.com/UmbertoLeonetti/Umberto-Neto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/UmbertoLeonetti/UmbertoLeonetti/blob/output/github-contribution-grid-snake.svg)
 
 ###
