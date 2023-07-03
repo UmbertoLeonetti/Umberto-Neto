@@ -43,6 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/UmbertoLeonetti/UmbertoLeonetti/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/UmbertoLeonetti/Umberto-Neto/blob/output/github-contribution-grid-snake.svg)
 
 ###
