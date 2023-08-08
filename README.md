@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=77c8f9&width=435&lines=Prazer%2C+meu+nome+%C3%A9+Umberto+Leonetti;Tenho+21+anos e trabalho C#" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=77c8f9&width=435&lines=Prazer%2C+meu+nome+%C3%A9+Umberto+Leonetti;" alt="Typing SVG" /></a>
 </div>
 
 ###
